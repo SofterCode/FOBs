@@ -1,0 +1,5 @@
+C:\Users\Samantha\Documents\Visual Studio 2013\Projects\Minhaj\Book Examples\FOBProject4\FOBProject4\bin\Debug\FOBProject4.exe.config
+C:\Users\Samantha\Documents\Visual Studio 2013\Projects\Minhaj\Book Examples\FOBProject4\FOBProject4\bin\Debug\FOBProject4.exe
+C:\Users\Samantha\Documents\Visual Studio 2013\Projects\Minhaj\Book Examples\FOBProject4\FOBProject4\bin\Debug\FOBProject4.pdb
+C:\Users\Samantha\Documents\Visual Studio 2013\Projects\Minhaj\Book Examples\FOBProject4\FOBProject4\obj\Debug\FOBProject4.exe
+C:\Users\Samantha\Documents\Visual Studio 2013\Projects\Minhaj\Book Examples\FOBProject4\FOBProject4\obj\Debug\FOBProject4.pdb
